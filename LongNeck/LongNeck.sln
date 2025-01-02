@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTWebGL", "TTWebGL.csproj", "{685E25AE-310E-A2C3-D1DD-AA153BC193BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTLitJson", "TTLitJson.csproj", "{43E34BFD-41D1-3C0F-C7C1-9227E9863EA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{1CAADEDA-2889-DE7E-B705-F96F9326A82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.bytedance.ttsdk-editor", "com.bytedance.ttsdk-editor.csproj", "{83DD383D-AC68-77FB-4A07-C0019456A471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{685E25AE-310E-A2C3-D1DD-AA153BC193BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685E25AE-310E-A2C3-D1DD-AA153BC193BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685E25AE-310E-A2C3-D1DD-AA153BC193BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685E25AE-310E-A2C3-D1DD-AA153BC193BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E34BFD-41D1-3C0F-C7C1-9227E9863EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E34BFD-41D1-3C0F-C7C1-9227E9863EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E34BFD-41D1-3C0F-C7C1-9227E9863EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E34BFD-41D1-3C0F-C7C1-9227E9863EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAADEDA-2889-DE7E-B705-F96F9326A82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAADEDA-2889-DE7E-B705-F96F9326A82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAADEDA-2889-DE7E-B705-F96F9326A82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAADEDA-2889-DE7E-B705-F96F9326A82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83DD383D-AC68-77FB-4A07-C0019456A471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83DD383D-AC68-77FB-4A07-C0019456A471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83DD383D-AC68-77FB-4A07-C0019456A471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83DD383D-AC68-77FB-4A07-C0019456A471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

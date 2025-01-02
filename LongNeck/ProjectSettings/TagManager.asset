@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tirnak
+  - obsticle
+  - tirnak_first
+  - fircasi
+  - head
+  - tirnak_0
+  - finger
+  - LF
+  - winpanel
+  - stickmanbody
+  - stickmanhead
+  - ring
+  - red
+  - pink
+  - yellow
+  - blue
+  - slide
+  - fly
+  - end
+  - x1.0
+  - x1.1
+  - rotate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
