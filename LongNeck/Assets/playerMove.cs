@@ -130,7 +130,7 @@ public class playerMove : MonoBehaviour
        public void NailCut()
       {
 
-   
+            
            
             Nail.SetActive(true);
             

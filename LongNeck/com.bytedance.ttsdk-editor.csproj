@@ -58,8 +58,8 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Plugins\ByteGame\com.bytedance.starksdk\Editor\TTAPIUpdate.cs" />
     <Compile Include="Assets\Plugins\ByteGame\com.bytedance.starksdk\Editor\TTEditorTools.cs" />
+    <Compile Include="Assets\Plugins\ByteGame\com.bytedance.starksdk\Editor\TTAPIUpdate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\ByteGame\com.bytedance.starksdk\Editor\com.bytedance.ttsdk-editor.asmdef" />
@@ -429,12 +429,12 @@
       <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Unity.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Google.VersionHandler">
-      <HintPath>Assets\ExternalDependencyManager\Editor\Google.VersionHandler.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="log4netPlastic">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@2.4.3\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Google.VersionHandler">
+      <HintPath>Assets\ExternalDependencyManager\Editor\Google.VersionHandler.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl_v1.2.166">
@@ -453,12 +453,24 @@
       <HintPath>Library\PackageCache\com.unity.collab-proxy@2.4.3\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="starksdk_tools">
+      <HintPath>Assets\Plugins\ByteGame\com.bytedance.starksdk.unitytools\Editor\starksdk_tools.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="bgdt">
+      <HintPath>Assets\Plugins\ByteGame\com.bytedance.bgdt\Editor\bgdt.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Google.PackageManagerResolver_v1.2.166">
       <HintPath>Assets\ExternalDependencyManager\Editor\Google.PackageManagerResolver_v1.2.166.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="GoogleMobileAds.Core">
       <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ttsdk">
+      <HintPath>Assets\Plugins\ByteGame\com.bytedance.starksdk\ttsdk.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
@@ -471,18 +483,6 @@
     </Reference>
     <Reference Include="Google.JarResolver_v1.2.166">
       <HintPath>Assets\ExternalDependencyManager\Editor\Google.JarResolver_v1.2.166.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="starksdk_tools">
-      <HintPath>Assets\Plugins\ByteGame\com.bytedance.starksdk.unitytools\Editor\starksdk_tools.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="bgdt">
-      <HintPath>Assets\Plugins\ByteGame\com.bytedance.bgdt\Editor\bgdt.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="ttsdk">
-      <HintPath>Assets\Plugins\ByteGame\com.bytedance.starksdk\ttsdk.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="nunit.framework">

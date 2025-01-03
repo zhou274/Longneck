@@ -33,7 +33,7 @@ public class uicontrol : MonoBehaviour
     }
   public void retryBtn_1()
   {
-    	   GoogleAdMobController.Instance.ShowInterstitialAd();
+    	   //GoogleAdMobController.Instance.ShowInterstitialAd();
 
        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
   }
@@ -66,40 +66,24 @@ public class uicontrol : MonoBehaviour
             });
         
   }
+    public void Restart()
+    {
+        PlayerPrefs.SetInt("Diamond", 0);
+        PlayerPrefs.SetInt("LevelNum_D", 0);
+        PlayerPrefs.SetInt("LevelNum", 0);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
     public void NextBtn()
   {
-        ShowVideoAd("192if3b93qo6991ed0",
-            (bol) => {
-                if (bol)
-                {
-                    PlayerPrefs.SetInt("LevelNum", PlayerPrefs.GetInt("LevelNum") + 1);
-                    PlayerPrefs.SetInt("LevelNum_D", PlayerPrefs.GetInt("LevelNum_D") + 1);
-                    if (PlayerPrefs.GetInt("LevelNum") > 4)
-                    {
-                        PlayerPrefs.SetInt("LevelNum", 0);
-                    }
-                    SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        PlayerPrefs.SetInt("LevelNum", PlayerPrefs.GetInt("LevelNum") + 1);
+        PlayerPrefs.SetInt("LevelNum_D", PlayerPrefs.GetInt("LevelNum_D") + 1);
+        if (PlayerPrefs.GetInt("LevelNum") > 4)
+        {
+            PlayerPrefs.SetInt("LevelNum", 0);
+        }
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
 
-
-
-                    clickid = "";
-                    getClickid();
-                    apiSend("game_addiction", clickid);
-                    apiSend("lt_roi", clickid);
-
-
-                }
-                else
-                {
-                    StarkSDKSpace.AndroidUIManager.ShowToast("观看完整视频才能获取奖励哦！");
-                }
-            },
-            (it, str) => {
-                Debug.LogError("Error->" + str);
-                //AndroidUIManager.ShowToast("广告加载异常，请重新看广告！");
-            });
-      
-  }
+    }
   public IEnumerator WinPanel()
    {
         ShowInterstitialAd("1lcaf5895d5l1293dc",
@@ -113,9 +97,9 @@ public class uicontrol : MonoBehaviour
         yield return new WaitForSeconds(3.2f);
      uicontrol._uicontrol.Win.SetActive(true);
      yield return new WaitForSeconds(1.3f);
-       GoogleAdMobController.Instance.ShowInterstitialAd();
+        //GoogleAdMobController.Instance.ShowInterstitialAd();
 
-   }
+    }
     public IEnumerator LosePanel()
    {
         ShowInterstitialAd("1lcaf5895d5l1293dc",
@@ -129,7 +113,7 @@ public class uicontrol : MonoBehaviour
         uicontrol._uicontrol.Lose.SetActive(true);
      yield return new WaitForSeconds(1.3f);
    
-     GoogleAdMobController.Instance.ShowInterstitialAd();
+     
 
    }
     public void getClickid()

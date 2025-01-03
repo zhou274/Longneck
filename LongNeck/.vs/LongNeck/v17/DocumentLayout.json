@@ -3,37 +3,16 @@
   "WorkspaceRootPath": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\assets\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|d:\\baidunetdiskdownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\longneck\\assets\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|d:\\baidunetdiskdownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\longneck\\assets\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\assets\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\assets\\end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\assets\\finishpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\finishpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\assets\\diamondcollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,6 +21,31 @@
     {
       "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\assets\\ringpicup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\ringpicup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\assets\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|d:\\baidunetdiskdownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\longneck\\assets\\googleadmobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\googleadmobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\assets\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\assets\\end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\assets\\endanimation2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,33 +75,138 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ball.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs [\u53EA\u8BFB]",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF0AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "GoogleAdMobController.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\GoogleAdMobController.cs",
+              "RelativeDocumentMoniker": "Assets\\GoogleAdMobController.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\GoogleAdMobController.cs",
+              "RelativeToolTip": "Assets\\GoogleAdMobController.cs",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAkwJgBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:51:15.218Z",
-              "EditorCaption": " [\u53EA\u8BFB]"
+              "WhenOpened": "2025-01-03T04:06:09.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ADManager.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAADAAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "CebianlanManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:46:27.1Z",
+              "WhenOpened": "2025-01-02T08:39:44.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "uicontrol.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\uicontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\uicontrol.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\uicontrol.cs",
+              "RelativeToolTip": "Assets\\uicontrol.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:54:42.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gamemanager.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\Gamemanager.cs",
+              "RelativeDocumentMoniker": "Assets\\Gamemanager.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\Gamemanager.cs",
+              "RelativeToolTip": "Assets\\Gamemanager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAlwCoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:11:42.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "end.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\end.cs",
+              "RelativeDocumentMoniker": "Assets\\end.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\end.cs",
+              "RelativeToolTip": "Assets\\end.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAABIwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:11:40.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "finishPoint.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\finishPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\finishPoint.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\finishPoint.cs",
+              "RelativeToolTip": "Assets\\finishPoint.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAlwD4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:11:07.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "endAnimation2.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\endAnimation2.cs",
+              "RelativeDocumentMoniker": "Assets\\endAnimation2.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\endAnimation2.cs",
+              "RelativeToolTip": "Assets\\endAnimation2.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:10:24.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "playerMove.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\playerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\playerMove.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\playerMove.cs",
+              "RelativeToolTip": "Assets\\playerMove.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwIQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:08:11.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RingPicUp.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\RingPicUp.cs",
+              "RelativeDocumentMoniker": "Assets\\RingPicUp.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\RingPicUp.cs",
+              "RelativeToolTip": "Assets\\RingPicUp.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwEkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:55:48.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "diamondCollect.cs",
+              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\diamondCollect.cs",
+              "RelativeDocumentMoniker": "Assets\\diamondCollect.cs",
+              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\diamondCollect.cs",
+              "RelativeToolTip": "Assets\\diamondCollect.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:57:06.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CebianlanManager.cs",
               "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\CebianlanManager.cs",
               "RelativeDocumentMoniker": "Assets\\CebianlanManager.cs",
@@ -110,92 +219,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CebianlanManager.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ADManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:39:44.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "uicontrol.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\uicontrol.cs",
-              "RelativeDocumentMoniker": "Assets\\uicontrol.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\uicontrol.cs",
-              "RelativeToolTip": "Assets\\uicontrol.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAA6wH8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T07:54:42.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Gamemanager.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\Gamemanager.cs",
-              "RelativeDocumentMoniker": "Assets\\Gamemanager.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\Gamemanager.cs",
-              "RelativeToolTip": "Assets\\Gamemanager.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAlwCoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:11:42.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "end.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\end.cs",
-              "RelativeDocumentMoniker": "Assets\\end.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\end.cs",
-              "RelativeToolTip": "Assets\\end.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:11:40.304Z"
+              "WhenOpened": "2025-01-02T08:46:27.1Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "finishPoint.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\finishPoint.cs",
-              "RelativeDocumentMoniker": "Assets\\finishPoint.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\finishPoint.cs",
-              "RelativeToolTip": "Assets\\finishPoint.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAlwD4AAAA3AAAAAAAAAA==",
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\Ball.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:11:07.751Z"
+              "WhenOpened": "2025-01-02T08:51:15.218Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "endAnimation2.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\endAnimation2.cs",
-              "RelativeDocumentMoniker": "Assets\\endAnimation2.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\endAnimation2.cs",
-              "RelativeToolTip": "Assets\\endAnimation2.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAhwBAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:10:24.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "playerMove.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\playerMove.cs",
-              "RelativeDocumentMoniker": "Assets\\playerMove.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\playerMove.cs",
-              "RelativeToolTip": "Assets\\playerMove.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAArwH8AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:08:11.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "endAnimation1.cs",
               "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\endAnimation1.cs",
               "RelativeDocumentMoniker": "Assets\\endAnimation1.cs",
@@ -203,23 +248,25 @@
               "RelativeToolTip": "Assets\\endAnimation1.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAswBAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:10:19.887Z"
+              "WhenOpened": "2025-01-02T08:10:19.887Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "endAnimation3.cs",
               "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\endAnimation3.cs",
               "RelativeDocumentMoniker": "Assets\\endAnimation3.cs",
               "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\endAnimation3.cs",
               "RelativeToolTip": "Assets\\endAnimation3.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAABIwBAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:10:37.311Z"
+              "WhenOpened": "2025-01-02T08:10:37.311Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "endAnimation.cs",
               "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\endAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\endAnimation.cs",
@@ -227,35 +274,12 @@
               "RelativeToolTip": "Assets\\endAnimation.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAswBEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T07:57:07.918Z"
+              "WhenOpened": "2025-01-02T07:57:07.918Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "diamondCollect.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\diamondCollect.cs",
-              "RelativeDocumentMoniker": "Assets\\diamondCollect.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\diamondCollect.cs",
-              "RelativeToolTip": "Assets\\diamondCollect.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAhwBAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T07:57:06.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RingPicUp.cs",
-              "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\RingPicUp.cs",
-              "RelativeDocumentMoniker": "Assets\\RingPicUp.cs",
-              "ToolTip": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\RingPicUp.cs",
-              "RelativeToolTip": "Assets\\RingPicUp.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAlwEkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T07:55:48.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "D:\\BaiduNetdiskDownload\\\u8D2A\u5403\u86C7\u5927\u4F5C\u6218\\LongNeck\\Assets\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
@@ -263,7 +287,8 @@
               "RelativeToolTip": "Assets\\MainMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T06:36:02.971Z"
+              "WhenOpened": "2025-01-02T06:36:02.971Z",
+              "EditorCaption": ""
             }
           ]
         }

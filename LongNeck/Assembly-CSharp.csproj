@@ -66,6 +66,7 @@
     <Compile Include="Assets\diamondCollect.cs" />
     <Compile Include="Assets\GoogleMobileAds\Platforms\Mediation\UnityAdsClientFactory.cs" />
     <Compile Include="Assets\Gamemanager.cs" />
+    <Compile Include="Assets\CebianlanManager.cs" />
     <Compile Include="Assets\GoogleMobileAds\Platforms\iOS\Mediation\UnityAds\UnityAdsClient.cs" />
     <Compile Include="Assets\finishPoint.cs" />
     <Compile Include="Assets\endAnimation1.cs" />
@@ -73,8 +74,8 @@
     <Compile Include="Assets\GoogleMobileAds\Platforms\Android\Mediation\UnityAds\UnityAdsClient.cs" />
     <Compile Include="Assets\end.cs" />
     <Compile Include="Assets\changeMaterial.cs" />
-    <Compile Include="Assets\GoogleMobileAds\Platforms\iOS\Mediation\UnityAds\Externs.cs" />
     <Compile Include="Assets\hurdle.cs" />
+    <Compile Include="Assets\GoogleMobileAds\Platforms\iOS\Mediation\UnityAds\Externs.cs" />
     <Compile Include="Assets\fly.cs" />
     <Compile Include="Assets\GoogleMobileAds\Api\Mediation\UnityAds\UnityAds.cs" />
     <Compile Include="Assets\PlayerPosition.cs" />
@@ -85,7 +86,6 @@
     <Compile Include="Assets\uicontrol.cs" />
     <Compile Include="Assets\endAnimation3.cs" />
     <Compile Include="Assets\meshAnimation.cs" />
-    <Compile Include="Assets\CebianlanManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -464,12 +464,12 @@
       <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Core.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="GoogleMobileAds.Common">
-      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Common.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="ttsdk">
       <HintPath>Assets\Plugins\ByteGame\com.bytedance.starksdk\ttsdk.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GoogleMobileAds.Common">
+      <HintPath>Assets\GoogleMobileAds\GoogleMobileAds.Common.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Android.Types">
@@ -1002,21 +1002,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="GoogleMobileAds.Editor.csproj">
-      <Project>{1CAADEDA-2889-DE7E-B705-F96F9326A82B}</Project>
-      <Name>GoogleMobileAds.Editor</Name>
+    <ProjectReference Include="com.bytedance.ttsdk-editor.csproj">
+      <Project>{83DD383D-AC68-77FB-4A07-C0019456A471}</Project>
+      <Name>com.bytedance.ttsdk-editor</Name>
     </ProjectReference>
     <ProjectReference Include="TTLitJson.csproj">
       <Project>{43E34BFD-41D1-3C0F-C7C1-9227E9863EA8}</Project>
       <Name>TTLitJson</Name>
     </ProjectReference>
+    <ProjectReference Include="GoogleMobileAds.Editor.csproj">
+      <Project>{1CAADEDA-2889-DE7E-B705-F96F9326A82B}</Project>
+      <Name>GoogleMobileAds.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="TTWebGL.csproj">
       <Project>{685E25AE-310E-A2C3-D1DD-AA153BC193BA}</Project>
       <Name>TTWebGL</Name>
-    </ProjectReference>
-    <ProjectReference Include="com.bytedance.ttsdk-editor.csproj">
-      <Project>{83DD383D-AC68-77FB-4A07-C0019456A471}</Project>
-      <Name>com.bytedance.ttsdk-editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
