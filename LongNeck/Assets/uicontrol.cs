@@ -40,7 +40,7 @@ public class uicontrol : MonoBehaviour
     public void retryBtn()
   {
 
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("914em2i3gf227u0q5a",
             (bol) => {
                 if (bol)
                 {
@@ -86,7 +86,7 @@ public class uicontrol : MonoBehaviour
     }
   public IEnumerator WinPanel()
    {
-        ShowInterstitialAd("1lcaf5895d5l1293dc",
+        ShowInterstitialAd("3e065k5gne8914ff23",
                () => {
                    Debug.LogError("--插屏广告完成--");
 
@@ -102,7 +102,7 @@ public class uicontrol : MonoBehaviour
     }
     public IEnumerator LosePanel()
    {
-        ShowInterstitialAd("1lcaf5895d5l1293dc",
+        ShowInterstitialAd("3e065k5gne8914ff23",
             () => {
                 Debug.LogError("--插屏广告完成--");
 
