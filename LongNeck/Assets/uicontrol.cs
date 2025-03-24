@@ -26,8 +26,8 @@ public class uicontrol : MonoBehaviour
 }
     void Start()
     {
-       GoogleAdMobController.Instance.Initialize();
-      GoogleAdMobController.Instance.RequestBannerAd();
+      // GoogleAdMobController.Instance.Initialize();
+      //GoogleAdMobController.Instance.RequestBannerAd();
         Tap.SetActive(true);
         isAdshow=false;
     }

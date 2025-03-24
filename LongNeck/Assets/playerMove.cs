@@ -40,7 +40,11 @@ public class playerMove : MonoBehaviour
 
 
     public static playerMove _playerMove;
-    
+
+    public float minX = -15.3f;
+    public float maxX = 15.3f;
+
+
     public void Awake()
     {
         _playerMove=this;
@@ -56,7 +60,7 @@ public class playerMove : MonoBehaviour
         count=0;
         isfinish=false;
         isStart=false;
-        TouchSpeed=0.01f;
+        //TouchSpeed=0.01f;
       
       
       
@@ -65,56 +69,76 @@ public class playerMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetMouseButtonDown(0)&& !isStart)
-         {
-           isStart=true;
+        if (Input.GetMouseButtonDown(0) && !isStart)
+        {
+            isStart = true;
             uicontrol._uicontrol.Tap.SetActive(false);
-         }
-           if(Input.GetKey(KeyCode.LeftArrow)&&transform.position.x>-15.3f)
-        {
-            transform.Translate(Vector3.left*speed*Time.deltaTime);
-        }
-         if(Input.GetKey(KeyCode.RightArrow)&&transform.position.x<15.3f)
-        {
-            transform.Translate(Vector3.right*speed*Time.deltaTime);
         }
 
+        if (Input.GetKey(KeyCode.LeftArrow) && transform.position.x > -15.3f)
+        {
+            transform.Translate(Vector3.left * speed * Time.deltaTime);
+        }
+        if (Input.GetKey(KeyCode.RightArrow) && transform.position.x < 15.3f)
+        {
+            transform.Translate(Vector3.right * speed * Time.deltaTime);
+        }
+
+
+        if (Input.touchCount > 0)
+        {
+            Touch touch = Input.GetTouch(0);
+
+            // 只在滑动阶段处理移动
+            if (touch.phase == TouchPhase.Moved)
+            {
+                // 计算目标位置（先限制再移动）
+                float deltaX = touch.deltaPosition.x * TouchSpeed * Time.deltaTime;
+                float newX = transform.position.x + deltaX;
+
+                // 直接限制目标位置，避免越界
+                newX = Mathf.Clamp(newX, minX, maxX);
+
+                // 应用位置
+                transform.position = new Vector3(newX, transform.position.y, transform.position.z);
+            }
+        }
         //touch
-            if (Input.touchCount > 0 && transform.position.x>=-15.3f && transform.position.x<=15.3f)
+        //if (Input.touchCount > 0 && transform.position.x >= -15.3f && transform.position.x <= 15.3f)
+        //{
+        //    Touch touch = Input.GetTouch(0);
+        //    transform.Translate(touch.deltaPosition.x * TouchSpeed, 0, 0);
+        //}
+        //else if (transform.position.x > 15.3f)
+        //{
+        //    transform.position = new Vector3(15.25f, transform.position.y, transform.position.z);
+        //}
+        //else if (transform.position.x < -15.3f)
+        //{
+        //    transform.position = new Vector3(-15.25f, transform.position.y, transform.position.z);
+
+        //}
+        if (isStart && !isfinish)
         {
-             Touch touch = Input.GetTouch(0);
-             transform.Translate(touch.deltaPosition.x*TouchSpeed,0,0);
+            PlayerAnim.SetBool("isWalk", true);
+            PlayerMov();
+
+
         }
-        else if(transform.position.x>15.3f)
-        {
-            transform.position=new Vector3(15.25f,transform.position.y,transform.position.z);
-        }
-         else if(transform.position.x<-15.3f)
-        {
-            transform.position=new Vector3(-15.25f,transform.position.y,transform.position.z);
-        
-    }
-       if(isStart && !isfinish)
-        {
-            PlayerAnim.SetBool("isWalk",true);
-             PlayerMov();
-        
-         
-        }
-        if(isfinish)
+        if (isfinish)
         {
             //  if(isfinish && isStart)
-         
+
             //  StartCoroutine(uicontrol._uicontrol.WinPanel());
-  {
-    transform.position = Vector3.MoveTowards(transform.position, PlayerPos[_PlayerPos].transform.position, speed*Time.deltaTime);
-  }
+            {
+                transform.position = Vector3.MoveTowards(transform.position, PlayerPos[_PlayerPos].transform.position, speed * Time.deltaTime);
+            }
         }
         // Debug.Log("PlayerHead.transform.position"+PlayerHead.transform.position);
-        
-  
+
+
     }
-       public void PlayerMov()
+    public void PlayerMov()
     {
 
        transform.Translate(Vector3.forward*speed*Time.deltaTime);

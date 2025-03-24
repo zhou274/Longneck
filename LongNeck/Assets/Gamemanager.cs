@@ -39,11 +39,13 @@ public class Gamemanager : MonoBehaviour
         Debug.Log("LevelNumber "+LevelNumber);
       if(LevelNumber==0)
       {
+            if(road!=null)
         road.SetActive(false);
       }
       else
       {
-        road.SetActive(true);
+            if (road != null)
+                road.SetActive(true);
       }
       
        

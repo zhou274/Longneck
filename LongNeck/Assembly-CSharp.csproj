@@ -86,6 +86,7 @@
     <Compile Include="Assets\uicontrol.cs" />
     <Compile Include="Assets\endAnimation3.cs" />
     <Compile Include="Assets\meshAnimation.cs" />
+    <Compile Include="Assets\InitAd.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

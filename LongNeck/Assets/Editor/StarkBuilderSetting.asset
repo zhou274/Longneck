@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: StarkBuilderSetting
   m_EditorClassIdentifier: 
   wasmResourceUrl: http://
-  webGLOutputDir: "D:/Unity/\u957F\u8116\u5B50\u8DD1\u9177/LongNeck/Game"
+  webGLOutputDir: "D:/Unity/\u957F\u9888\u51B2\u523A/LongNeck/Game"
   useByteAudioAPI: 0
   wasmMemorySize: 128
   isWebGL2: 1
@@ -44,9 +44,9 @@ MonoBehaviour:
   a: ttd3f0a54d4cfa134a07
   version: 
   autoVersion: 0
-  b: "D:\\Unity\\\u957F\u8116\u5B50\u8DD1\u9177\\LongNeck\\Game\\webgl_package-20250110_195653.zip"
+  b: "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Game\\webgl_package-20250323_183932.zip"
   c: 0
   d: 0
   e: 0
   publishDesc: 
-  idePath: "C:/Program Files/@bytedminiprogram-ide/\u6296\u97F3\u5F00\u53D1\u8005\u5DE5\u5177.exe"
+  idePath: "D:/ByteGame/@bytedminiprogram-ide/\u6296\u97F3\u5F00\u53D1\u8005\u5DE5\u5177.exe"
