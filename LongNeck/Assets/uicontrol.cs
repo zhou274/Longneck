@@ -20,6 +20,8 @@ public class uicontrol : MonoBehaviour
     private StarkAdManager starkAdManager;
 
     public static uicontrol _uicontrol;
+    public GameObject PausePanel;
+    public GameObject PopPanel;
     void Awake()
 {
     _uicontrol=this;
@@ -28,20 +30,102 @@ public class uicontrol : MonoBehaviour
     {
       // GoogleAdMobController.Instance.Initialize();
       //GoogleAdMobController.Instance.RequestBannerAd();
+      ShowPopPanel();
         Tap.SetActive(true);
         isAdshow=false;
+    }
+    public void AddByReward()
+    {
+        //PlayerPrefs.SetInt("Diamond", PlayerPrefs.GetInt("Diamond") + 100);
+        //HidePopPanel();
+        ShowVideoAd("3ke33l40j66e7jm130",
+            (bol) =>
+            {
+                if (bol)
+                {
+
+                    PlayerPrefs.SetInt("Diamond", PlayerPrefs.GetInt("Diamond") + 100);
+                    HidePopPanel();
+
+
+                    clickid = "";
+                    getClickid();
+                    apiSend("game_addiction", clickid);
+                    apiSend("lt_roi", clickid);
+
+
+                }
+                else
+                {
+                    StarkSDKSpace.AndroidUIManager.ShowToast("观看完整视频才能获取奖励哦！");
+                }
+            },
+            (it, str) =>
+            {
+                Debug.LogError("Error->" + str);
+                //AndroidUIManager.ShowToast("广告加载异常，请重新看广告！");
+            });
+
+    }
+    public void ShowPopPanel()
+    {
+        PopPanel.SetActive(true);
+    }
+    public void HidePopPanel()
+    {
+        PopPanel.SetActive(false);
+    }
+    public void ShowPausePanel()
+    {
+        Time.timeScale = 0;
+        PausePanel.SetActive(true);
+    }
+    public void HidePausePanel()
+    {
+        //Time.timeScale = 1;
+        //PausePanel.SetActive(false);
+        ShowVideoAd("3ke33l40j66e7jm130",
+            (bol) =>
+            {
+                if (bol)
+                {
+
+                    Time.timeScale = 1;
+                    PausePanel.SetActive(false);
+
+
+                    clickid = "";
+                    getClickid();
+                    apiSend("game_addiction", clickid);
+                    apiSend("lt_roi", clickid);
+
+
+                }
+                else
+                {
+                    StarkSDKSpace.AndroidUIManager.ShowToast("观看完整视频才能获取奖励哦！");
+                }
+            },
+            (it, str) =>
+            {
+                Debug.LogError("Error->" + str);
+                //AndroidUIManager.ShowToast("广告加载异常，请重新看广告！");
+            });
+
     }
   public void retryBtn_1()
   {
     	   //GoogleAdMobController.Instance.ShowInterstitialAd();
 
        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        Time.timeScale = 1;
   }
     public void retryBtn()
   {
-
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         ShowVideoAd("914em2i3gf227u0q5a",
-            (bol) => {
+            (bol) =>
+            {
                 if (bol)
                 {
 
@@ -60,12 +144,13 @@ public class uicontrol : MonoBehaviour
                     StarkSDKSpace.AndroidUIManager.ShowToast("观看完整视频才能获取奖励哦！");
                 }
             },
-            (it, str) => {
+            (it, str) =>
+            {
                 Debug.LogError("Error->" + str);
                 //AndroidUIManager.ShowToast("广告加载异常，请重新看广告！");
             });
-        
-  }
+
+    }
     public void Restart()
     {
         PlayerPrefs.SetInt("Diamond", 0);
@@ -87,11 +172,13 @@ public class uicontrol : MonoBehaviour
   public IEnumerator WinPanel()
    {
         ShowInterstitialAd("3e065k5gne8914ff23",
-               () => {
+               () =>
+               {
                    Debug.LogError("--插屏广告完成--");
 
                },
-               (it, str) => {
+               (it, str) =>
+               {
                    Debug.LogError("Error->" + str);
                });
         yield return new WaitForSeconds(3.2f);
@@ -103,11 +190,13 @@ public class uicontrol : MonoBehaviour
     public IEnumerator LosePanel()
    {
         ShowInterstitialAd("3e065k5gne8914ff23",
-            () => {
+            () =>
+            {
                 Debug.LogError("--插屏广告完成--");
 
             },
-            (it, str) => {
+            (it, str) =>
+            {
                 Debug.LogError("Error->" + str);
             });
         uicontrol._uicontrol.Lose.SetActive(true);

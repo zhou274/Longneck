@@ -44,7 +44,7 @@ public class playerMove : MonoBehaviour
     public float minX = -15.3f;
     public float maxX = 15.3f;
 
-
+    public GameObject PopPanel;
     public void Awake()
     {
         _playerMove=this;
@@ -65,11 +65,10 @@ public class playerMove : MonoBehaviour
       
       
     }
-
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0) && !isStart)
+        if (Input.GetMouseButtonDown(0) && !isStart && PopPanel.activeSelf==false)
         {
             isStart = true;
             uicontrol._uicontrol.Tap.SetActive(false);

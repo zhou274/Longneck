@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|d:\\unity\\\u957F\u9888\u51B2\u523A\\longneck\\assets\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\assets\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\assets\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|d:\\unity\\\u957F\u9888\u51B2\u523A\\longneck\\assets\\initad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\assets\\initad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\initad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,19 +27,11 @@
       "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\changematerial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\assets\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\assets\\camerarotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\camerarotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|d:\\unity\\\u957F\u9888\u51B2\u523A\\longneck\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,10 +44,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\assets\\googlemobileads\\api\\mediation\\unityads\\unityads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\googlemobileads\\api\\mediation\\unityads\\unityads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\assets\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D297AABD-BF4D-1836-5FDC-272DA6D2E49B}|Assembly-CSharp.csproj|solutionrelative:assets\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\3DTetris\\Assets\\Scrips\\Block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -129,11 +129,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "InitAd.cs",
               "DocumentMoniker": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Assets\\InitAd.cs",
               "RelativeDocumentMoniker": "Assets\\InitAd.cs",
@@ -141,12 +141,11 @@
               "RelativeToolTip": "Assets\\InitAd.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:33:46.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:33:46.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UnityAds.cs",
               "DocumentMoniker": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Assets\\GoogleMobileAds\\Api\\Mediation\\UnityAds\\UnityAds.cs",
               "RelativeDocumentMoniker": "Assets\\GoogleMobileAds\\Api\\Mediation\\UnityAds\\UnityAds.cs",
@@ -154,25 +153,24 @@
               "RelativeToolTip": "Assets\\GoogleMobileAds\\Api\\Mediation\\UnityAds\\UnityAds.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:59:52.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T06:59:52.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "uicontrol.cs",
               "DocumentMoniker": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Assets\\uicontrol.cs",
               "RelativeDocumentMoniker": "Assets\\uicontrol.cs",
               "ToolTip": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Assets\\uicontrol.cs",
               "RelativeToolTip": "Assets\\uicontrol.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAqwCoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAhwLAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T07:54:42.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "changeMaterial.cs",
               "DocumentMoniker": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Assets\\changeMaterial.cs",
               "RelativeDocumentMoniker": "Assets\\changeMaterial.cs",
@@ -180,12 +178,11 @@
               "RelativeToolTip": "Assets\\changeMaterial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:58:14.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T06:58:14.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "cameraRotate.cs",
               "DocumentMoniker": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Assets\\cameraRotate.cs",
               "RelativeDocumentMoniker": "Assets\\cameraRotate.cs",
@@ -193,12 +190,11 @@
               "RelativeToolTip": "Assets\\cameraRotate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:57:55.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T06:57:55.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CebianlanManager.cs",
               "DocumentMoniker": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Assets\\CebianlanManager.cs",
               "RelativeDocumentMoniker": "Assets\\CebianlanManager.cs",
@@ -206,21 +202,19 @@
               "RelativeToolTip": "Assets\\CebianlanManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:41:34.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T08:41:34.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "playerMove.cs",
               "DocumentMoniker": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Assets\\playerMove.cs",
               "RelativeDocumentMoniker": "Assets\\playerMove.cs",
               "ToolTip": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Assets\\playerMove.cs",
               "RelativeToolTip": "Assets\\playerMove.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAYwDUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswEYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:08:11.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T08:08:11.653Z"
             },
             {
               "$type": "Document",
@@ -244,25 +238,23 @@
               "RelativeToolTip": "Assets\\meshAnimation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:59:16.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T06:59:16.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Assets\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
               "ToolTip": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Assets\\MainMenu.cs",
               "RelativeToolTip": "Assets\\MainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T06:36:02.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T06:36:02.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TMPro_Private.cs",
               "DocumentMoniker": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMPro_Private.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.textmeshpro@3.0.6\\Scripts\\Runtime\\TMPro_Private.cs",
@@ -274,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Gamemanager.cs",
               "DocumentMoniker": "D:\\Unity\\\u957F\u9888\u51B2\u523A\\LongNeck\\Assets\\Gamemanager.cs",
               "RelativeDocumentMoniker": "Assets\\Gamemanager.cs",
@@ -282,12 +274,11 @@
               "RelativeToolTip": "Assets\\Gamemanager.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAiwC4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:11:42.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T08:11:42.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CebianlanManager.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u5E38\u7528\u811A\u672C\\CebianlanManager.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5E38\u7528\u811A\u672C\\CebianlanManager.cs",
@@ -305,8 +296,7 @@
               "RelativeToolTip": "Assets\\PlayerPosition.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:59:25.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T06:59:25.584Z"
             },
             {
               "$type": "Document",
@@ -318,8 +308,7 @@
               "RelativeToolTip": "Assets\\GoogleMobileAds\\Common\\Mediation\\UnityAds\\IUnityAdsClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:59:48.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T06:59:48.407Z"
             },
             {
               "$type": "Document",
@@ -331,8 +320,7 @@
               "RelativeToolTip": "Assets\\GoogleMobileAds\\Common\\Mediation\\UnityAds\\DummyClient.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:59:45.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T06:59:45.649Z"
             },
             {
               "$type": "Document",
@@ -344,8 +332,7 @@
               "RelativeToolTip": "Assets\\endAnimation2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAmwBMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:10:24.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T08:10:24.626Z"
             },
             {
               "$type": "Document",
@@ -357,8 +344,7 @@
               "RelativeToolTip": "Assets\\firasi.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAUwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:58:52.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T06:58:52.52Z"
             },
             {
               "$type": "Document",
@@ -370,8 +356,7 @@
               "RelativeToolTip": "Assets\\fly.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:58:56.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T06:58:56.818Z"
             },
             {
               "$type": "Document",
@@ -383,8 +368,7 @@
               "RelativeToolTip": "Assets\\hurdle.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T06:59:08.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T06:59:08.835Z"
             },
             {
               "$type": "Document",
@@ -396,8 +380,7 @@
               "RelativeToolTip": "Assets\\GoogleAdMobController.cs",
               "ViewState": "AgIAAAoCAAAAAAAAAABQwA0CAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T04:06:09.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T04:06:09.543Z"
             },
             {
               "$type": "Document",
@@ -419,8 +402,7 @@
               "RelativeToolTip": "Assets\\end.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:11:40.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T08:11:40.304Z"
             },
             {
               "$type": "Document",
@@ -432,8 +414,7 @@
               "RelativeToolTip": "Assets\\finishPoint.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAcwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:11:07.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T08:11:07.751Z"
             },
             {
               "$type": "Document",
@@ -445,8 +426,7 @@
               "RelativeToolTip": "Assets\\RingPicUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T07:55:48.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T07:55:48.555Z"
             },
             {
               "$type": "Document",
@@ -458,8 +438,7 @@
               "RelativeToolTip": "Assets\\diamondCollect.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T07:57:06.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T07:57:06.433Z"
             },
             {
               "$type": "Document",
@@ -492,8 +471,7 @@
               "RelativeToolTip": "Assets\\endAnimation1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:10:19.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T08:10:19.887Z"
             },
             {
               "$type": "Document",
@@ -505,8 +483,7 @@
               "RelativeToolTip": "Assets\\endAnimation3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:10:37.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T08:10:37.311Z"
             },
             {
               "$type": "Document",
@@ -518,8 +495,7 @@
               "RelativeToolTip": "Assets\\endAnimation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T07:57:07.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T07:57:07.918Z"
             }
           ]
         }
